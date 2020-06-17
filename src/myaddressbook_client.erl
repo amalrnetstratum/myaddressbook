@@ -1,5 +1,5 @@
 -module(myaddressbook_client).
-%hello
+%ahello
 -behaviour(tivan_server).
 
 -export([start_link/0,
